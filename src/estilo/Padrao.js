@@ -15,5 +15,14 @@ export default StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+  input: {
+    height: 70,
+    fontSize: 40,
+    borderColor: 'purple',
+    borderWidth: 1,
+  },
+  font40: {
+    fontSize: 40,
+  },
 
 })
