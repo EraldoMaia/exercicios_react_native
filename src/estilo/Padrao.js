@@ -9,5 +9,11 @@ export default StyleSheet.create({
     borderColor: 'purple',
     fontSize: 24,
     fontWeight: 'bold',
-  }
+  },
+  view: {
+    flex: 1, 
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+
 })
